@@ -1,9 +1,9 @@
 # PracticaArbolesABB
-#Introduction:
+Introduction:
 
 This repository contains a C program that implements a binary search tree (BST). The program allows users to perform various operations on the BST, such as adding nodes, printing the tree using the inorder traversal method, searching for a node, counting the number of leaves, finding the height of the tree, and deleting nodes.
 
-#Getting Started:
+Getting Started:
 To run the program, you need a C compiler and a development environment installed on your computer. You can use popular IDEs like Code::Blocks, Visual Studio, or simply compile the code using a command-line compiler.
 
 #Code Overview:
@@ -28,6 +28,7 @@ Finding Tree Height: The function contaltura() calculates the height of the BST.
 Deleting Nodes: The function BorrarNodo() allows users to delete a node with a specific value from the BST.
 
 How to Use
+
 Compile the code using a C compiler.
 
 Run the compiled executable.
@@ -35,6 +36,7 @@ Run the compiled executable.
 Follow the on-screen instructions to perform various operations on the binary search tree.
 
 Notes
+
 The program is set to handle integers as data in the BST. If you want to use other data types, modifications to the code are necessary.
 
 Make sure to handle memory deallocation properly if you modify the program or use dynamic memory allocation for other data types.
