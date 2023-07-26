@@ -29,6 +29,8 @@ The main C file is named main.c and includes the following functionalities:
 
 -Deleting Nodes: The function BorrarNodo() allows users to delete a node with a specific value from the BST.
 
+
+
 How to Use
 
 1.Compile the code using a C compiler.
@@ -36,6 +38,8 @@ How to Use
 2.Run the compiled executable.
 
 3.Follow the on-screen instructions to perform various operations on the binary search tree.
+
+
 
 Notes
 
