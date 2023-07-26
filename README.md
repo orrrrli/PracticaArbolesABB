@@ -48,7 +48,9 @@ The program is set to handle integers as data in the BST. If you want to use oth
 Make sure to handle memory deallocation properly if you modify the program or use dynamic memory allocation for other data types.
 
 Contributors
+
 This program was created by Orlando Sanchez. If you wish to contribute or report any issues, feel free to open an issue or create a pull request.
 
 License
+
 This program is opensource
