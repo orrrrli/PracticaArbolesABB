@@ -1,11 +1,12 @@
 # PracticaArbolesABB
-Introduction
+#Introduction:
+
 This repository contains a C program that implements a binary search tree (BST). The program allows users to perform various operations on the BST, such as adding nodes, printing the tree using the inorder traversal method, searching for a node, counting the number of leaves, finding the height of the tree, and deleting nodes.
 
-Getting Started
+#Getting Started:
 To run the program, you need a C compiler and a development environment installed on your computer. You can use popular IDEs like Code::Blocks, Visual Studio, or simply compile the code using a command-line compiler.
 
-Code Overview
+#Code Overview:
 The main C file is named main.c and includes the following functionalities:
 
 Data Structures: The program defines a binary search tree (BST) data structure using a structure named sTdato, which represents a node in the BST. The tree is implemented using pointers.
